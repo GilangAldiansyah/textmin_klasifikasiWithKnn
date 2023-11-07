@@ -26,7 +26,7 @@ def classify(train_data, train_labels, test_data, k):
 
     return predictions
 
-# Data latihan dan data uji (contoh)
+# Data Training dan Data Testing
 train_texts = [
     "Berita olahraga tentang pertandingan sepak bola",
     "Politik hari ini membahas kebijakan pemerintah",
